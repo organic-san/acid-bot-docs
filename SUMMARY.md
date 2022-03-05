@@ -8,4 +8,5 @@
 
 ## 功能說明 <a href="#function-help" id="function-help"></a>
 
+* [說明](function-help/shuo-ming.md)
 * [/levels 等級排行功能](function-help/levels.md)
