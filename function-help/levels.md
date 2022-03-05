@@ -24,6 +24,12 @@ description: 透過等級排行，可以有效排序用戶的活躍度，以及�
 
 ![](https://media.discordapp.net/attachments/848902789681381416/949713595338469496/unknown.png)
 
+### /levels no-dm
+
+當升等的訊息設定為私訊時，使用這個指令可以防止acid bot私訊升等訊息。
+
+![](https://cdn.discordapp.com/attachments/848902789681381416/949729156898377728/unknown.png)
+
 ## 只有管理員才能使用的功能
 
 ### /levels open
@@ -36,16 +42,6 @@ description: 透過等級排行，可以有效排序用戶的活躍度，以及�
 
 {% hint style="info" %}
 等級系統預設開啟，若不希望使用等級系統，請使用指令關閉。
-{% endhint %}
-
-### /levels reset
-
-歸零所有用戶的經驗值。
-
-![](https://cdn.discordapp.com/attachments/815510939179941891/949717851034505256/unknown.png)
-
-{% hint style="danger" %}
-此操作不可逆，請仔細考慮。
 {% endhint %}
 
 ### /levels level-up-react
@@ -62,3 +58,13 @@ description: 透過等級排行，可以有效排序用戶的活躍度，以及�
 ![選擇message-channel的示意圖](https://cdn.discordapp.com/attachments/848902789681381416/949725165502230568/unknown.png)
 
 ![選擇specify-channel的示意圖](https://media.discordapp.net/attachments/848902789681381416/949726788660105256/unknown.png)
+
+### /levels reset
+
+歸零所有用戶的經驗值。
+
+![](https://cdn.discordapp.com/attachments/815510939179941891/949717851034505256/unknown.png)
+
+{% hint style="danger" %}
+此操作不可逆，請仔細考慮。
+{% endhint %}
