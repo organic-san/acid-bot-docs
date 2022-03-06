@@ -8,7 +8,8 @@ description: 基本功能與相關的用詞解說
 
 acid bot大部分的功能使用Discord內建的斜線指令，具體來說就是在訊息欄輸入「/」符號，就可以使用指令。
 
-下一頁會開始一一介紹有哪些斜線指令：
+下一頁會開始一一介紹有哪些斜線指令：\
+(斜線指令說明依照英文字母排序)
 
 {% content-ref url="levels.md" %}
 [levels.md](levels.md)
