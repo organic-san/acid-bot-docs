@@ -24,9 +24,7 @@ description: 善用投票功能，集思廣益或取得大家的意見。
 
 
 
-![以圈叉模式舉行投票](https://cdn.discordapp.com/attachments/949933960916504626/949945300334825482/unknown.png)
-
-![以ABC...模式舉行投票](https://cdn.discordapp.com/attachments/949933960916504626/949945876594434078/unknown.png)
+![以圈叉模式舉行投票](https://cdn.discordapp.com/attachments/949933960916504626/949945300334825482/unknown.png) ![以ABC...模式舉行投票](https://cdn.discordapp.com/attachments/949933960916504626/949945876594434078/unknown.png)
 
 ### /poll sum
 
