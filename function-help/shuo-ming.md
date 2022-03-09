@@ -8,16 +8,12 @@ description: 基本功能與相關的用詞解說
 
 acid bot大部分的功能使用Discord內建的斜線指令，具體來說就是在訊息欄輸入「/」符號，就可以使用指令。
 
-以下是acid bot的斜線指令：\
+下一頁會開始一一介紹有哪些斜線指令：\
 (斜線指令說明依照英文字母排序)
 
-* [account 帳號查詢](account.md)
-* [anonymous 匿名訊息發送](anonymous-ni-ming-xun-xi.md)
-* [auto-reply 自動回覆/訊息反應](auto-reply.md)
-* [generator 文字產生器](generator.md)
-* [information 資訊檢視/查詢](information.md)
-* [levels 等級排行](levels.md)
-* [music 音樂播放等](music.md)
+{% content-ref url="levels.md" %}
+[levels.md](levels.md)
+{% endcontent-ref %}
 
 ## 斜線指令以外的功能
 
