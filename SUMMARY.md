@@ -4,7 +4,7 @@
 
 ## 相關連結 <a href="#link" id="link"></a>
 
-* [ESTER BOT](link/invite-link.md)
+* [邀請ESTER BOT](link/invite-link.md)
 
 ## 伺服器功能 <a href="#function-help" id="function-help"></a>
 
