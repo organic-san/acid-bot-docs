@@ -10,9 +10,6 @@
 
 * [說明](function-help/shuo-ming.md)
 * [/account 帳號查詢](function-help/account.md)
-
-***
-
 * [/auto-reply 自動回應](function-help/auto-reply.md)
 * [/generator 產生器](function-help/generator.md)
 * [/information 資訊顯示](function-help/information.md)
