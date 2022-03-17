@@ -16,4 +16,4 @@ Discord.js作為主要使用的模組
 
 Disord: organic\_san\_2#0500
 
-Twitter: @organic\_san\_DN
+@organic\_san\_2
