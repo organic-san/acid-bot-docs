@@ -6,7 +6,7 @@ description: ester bot是一台在Discord上的機器人。在這裡有著他的
 
 ## 歡迎來到這裡!
 
-ester bot擁有多種豐富的Discord[社群支援](function-help/shuo-ming.md)與[娛樂功能](game/game.md)，從等級排行、音樂播放到遊戲功能、計時器、投票、自動回覆，以及各種精彩的小遊戲等等，都可以用這一台機器人完成。
+ester bot擁有多種豐富的Discord[社群支援](function-help/shuo-ming.md)與[娛樂功能](game/game.md)，從等級排行、音樂播放到遊戲功能、計時器、投票、自動回覆，以及例如快艇骰子、猜數字等各種有趣的小遊戲，都可以用這一台機器人完成。
 
 在這個文檔中可以詳細理解機器人的那些功能該如何使用，以及挖掘更多有趣的應用。
 

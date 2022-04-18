@@ -25,23 +25,23 @@ description: 透過等級排行，可以有效排序用戶的活躍度，以及�
 
 * user: 用戶名稱，空白則視作要查看自己的等級。無法查詢機器人的等級。
 
-![](https://cdn.discordapp.com/attachments/848902789681381416/949707422702899240/unknown.png)
+![](https://cdn.discordapp.com/attachments/848902789681381416/965633156357181560/unknown.png)
 
 ### /levels ranking
 
 查詢整個伺服器中的等級排行。使用下方的上下一頁按紐可以查看清單的其他部分。
 
-![](https://media.discordapp.net/attachments/848902789681381416/949713595338469496/unknown.png)
+![](https://media.discordapp.net/attachments/848902789681381416/965633375505379378/unknown.png)
 
 ### /levels no-dm
 
 當升級的訊息設定為私訊時，使用這個指令可以防止ester bot私訊升級訊息。
 
+![](https://cdn.discordapp.com/attachments/848902789681381416/965633641814315059/unknown.png)
+
 {% hint style="warning" %}
 只有升級訊息的私訊會被過濾，只有當升級訊息傳送方式是私訊的時候才有效。私訊預設開啟。
 {% endhint %}
-
-![](https://cdn.discordapp.com/attachments/848902789681381416/949729156898377728/unknown.png)
 
 ## 只有管理員才能使用的功能
 
@@ -77,13 +77,13 @@ description: 透過等級排行，可以有效排序用戶的活躍度，以及�
 | dm-channel      | 私訊給這位用戶         |                   |
 | no-react        | 不發送任何訊息         |                   |
 
-![message-channel的運作示意圖](https://cdn.discordapp.com/attachments/848902789681381416/949730884993552434/unknown.png)
+![](https://cdn.discordapp.com/attachments/848902789681381416/965636659188236398/unknown.png)
 
 ### /levels reset
 
 歸零所有用戶的經驗值。
 
-![](https://cdn.discordapp.com/attachments/815510939179941891/949717851034505256/unknown.png)
+![](https://cdn.discordapp.com/attachments/848902789681381416/965644666563350528/unknown.png)
 
 {% hint style="danger" %}
 此操作不可逆，請仔細考慮。

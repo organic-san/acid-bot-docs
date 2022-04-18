@@ -4,11 +4,11 @@
 
 自動回應就是：假設你設定了對「蘋果」會回應「西瓜」的話，那麼只要有人輸入「蘋果」，ester bot就會傳送一則訊息寫著「西瓜」。
 
-例如下圖，預先設定了對「晚安」會回應文字：
+例如下圖，只要預先設定對「晚安」與他要回應文字，即會在收到對應訊息時自動回復:
 
-![](../.gitbook/assets/image.png)
+![](https://cdn.discordapp.com/attachments/848902789681381416/965609067286523955/unknown.png)
 
-可以當作是一種朋友，也可以做為發言提醒，或者成為謎題的一部份也可以。有了這個功能，也能為群組的討論增添色彩。
+將指定回覆自動化，也可以更加便於疏通多次出現的訊息，也可以為討論添增色彩。
 
 ## 一般用戶可以使用的功能
 
@@ -16,7 +16,7 @@
 
 顯示目前有設定的文字。下面的按鈕可以切換其他的頁面。
 
-![](https://cdn.discordapp.com/attachments/949933960916504626/949941895323320340/spaces2FSkGKTbU9GI7xyBN7nZl42Fuploads2FZFyidmSj5FTmBXD4rPts2Fimage.png)
+![](https://cdn.discordapp.com/attachments/848902789681381416/965617412600893470/unknown.png)
 
 ## 只有管理員才能使用的功能
 
@@ -30,8 +30,8 @@
 * reply-message:要回應的訊息。
 * mode:設定要偵測的模式。
 
-| mode名稱 | mode的含意                        |
-| ------ | ------------------------------ |
+| mode名稱 | mode的含意                         |
+| ------ | ------------------------------- |
 | 完全相符   | 輸入的文字需要與設定的文字相符，ester bot才會回應。  |
 | 部分相符   | 只要輸入的文字中有包含設定的文字，ester bot就會回應。 |
 
@@ -43,15 +43,14 @@
 
 * auto-reply-id:自動回應的ID。會在設定成功時顯示，也可以藉由/auto-reply show查詢。
 
-![紅框處的ID即為auto-reply-id](https://cdn.discordapp.com/attachments/949933960916504626/949942291349524541/unknown.png)
+![紅框處的ID即為auto-reply-id](https://cdn.discordapp.com/attachments/848902789681381416/965618853608562800/unknown.png)
 
 ### /auto-reply reset
 
 ​清除所有已設定的自動回應。
 
-![](https://cdn.discordapp.com/attachments/949933960916504626/949941570906509383/unknown.png)
+![](https://cdn.discordapp.com/attachments/848902789681381416/965621191136137246/unknown.png)
 
 {% hint style="danger" %}
 此操作無法復原，請仔細考慮。
 {% endhint %}
-

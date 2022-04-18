@@ -14,7 +14,7 @@ description: 將輸入的文字轉化成不同的風格。接受意見提供！
 
 * text:丟入產生器的文字
 
-![](https://media.discordapp.net/attachments/848902789681381416/950008437155188846/unknown.png)
+![](https://cdn.discordapp.com/attachments/848902789681381416/965622169604325436/unknown.png)
 
 ### /generator order-doesnt-matter
 
@@ -24,4 +24,4 @@ description: 將輸入的文字轉化成不同的風格。接受意見提供！
 
 * text:丟入產生器的文字
 
-![](https://cdn.discordapp.com/attachments/848902789681381416/950009534959730699/unknown.png)
+![](https://cdn.discordapp.com/attachments/848902789681381416/965622738595221504/unknown.png)
