@@ -2,22 +2,20 @@
 description: 基本功能與相關的用詞解說
 ---
 
-# 簡介
+# 基本功能與說明
 
-## 斜線指令一覽
+## 斜線指令
 
-ester bot大部分的功能使用Discord內建的斜線指令，具體來說就是在訊息欄輸入「/」符號，就可以使用指令。
+試著在Discord的輸入欄中輸入斜線「/」。順利的話，會看到一些指令列表。
 
-以下是ester bot的斜線指令：\
-(斜線指令說明依照英文字母排序)
+這些就是斜線指令，使用這些斜線指令就可以使用大部分的ester bot的功能。
 
-* [account 帳號查詢](account.md)
-* [auto-reply 自動回覆/訊息反應](auto-reply.md)
-* [generator 文字產生器](generator.md)
-* [information 資訊檢視/查詢](information.md)
-* [levels 等級排行](levels.md)
-*
-* help 幫助清單 - 想要到這個文件，或者要邀請ester bot，都可以在這個指令中找到。
+ester bot的功能大致分成3塊，點進下方連結或左側頁面可以查看更詳細的說明:
+
+* [伺服器功能](server-function/)-管理或自動化服務的功能
+* [娛樂功能](game-function/)-供遊玩與消遣的功能
+* [其他功能](other-function/)-不在上述之列的功能
+* /help 幫助清單 - 想要到這個文件，或者要邀請ester bot，都可以在這個指令中找到。
 
 ## 斜線指令以外的功能
 

@@ -24,7 +24,7 @@
 
 新增一個自動回應。
 
-#### 必填項：
+#### 填入選項
 
 * trigger-message:要偵測的訊息。
 * reply-message:要回應的訊息。
@@ -39,7 +39,7 @@
 
 刪除已經設定的自動回應。
 
-#### 必填項：
+#### 填入選項
 
 * auto-reply-id:自動回應的ID。會在設定成功時顯示，也可以藉由/auto-reply show查詢。
 
@@ -52,5 +52,5 @@
 ![](https://cdn.discordapp.com/attachments/848902789681381416/965621191136137246/unknown.png)
 
 {% hint style="danger" %}
-此操作無法復原，請仔細考慮。
+此操作無法復原，請審慎考慮。
 {% endhint %}
