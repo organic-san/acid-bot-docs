@@ -1,4 +1,4 @@
-# FAQ
+# 常見問答
 
 ### 如果我想要刪除ester bot中儲存的資料，該怎麼做?
 
@@ -14,6 +14,6 @@ Discord.js作為主要使用的模組
 
 ### 如何聯絡製作者?
 
-Disord: organic\_san\_2#0500
+Disord: organic\_san\_2#2202
 
 Twitter: @organic\_san\_2
