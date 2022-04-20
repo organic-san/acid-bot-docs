@@ -5,6 +5,12 @@
 ester bot的程式碼、營運皆由 organic\_san\_2#2202一手負責。\
 專案在2021年6月某天，防疫停班課時開始發展，一路上受到許多社群的支持走到現在。
 
+聯絡方式:
+
+Disord: organic\_san\_2#2202
+
+Twitter: @organic\_san\_2
+
 ## 特別感謝
 
 Hakka\_Monkey 客家猴#9137，為我提出製作Discord機器人的想法。

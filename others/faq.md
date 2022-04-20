@@ -11,9 +11,3 @@ javascript作為使用的語言
 node.js 作為運作的伺服器
 
 Discord.js作為主要使用的模組
-
-### 如何聯絡製作者?
-
-Disord: organic\_san\_2#2202
-
-Twitter: @organic\_san\_2
