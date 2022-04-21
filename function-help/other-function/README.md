@@ -10,7 +10,6 @@ description: 除了伺服器與娛樂功能之外的指令們。
 
 * [information 資訊檢視/查詢](information.md)
 * [words 單字系統](<words .md>)
-* [response 機器人回應](<response .md>)
 * [record 訊息回顧](record.md)
 * [timer 計時器](timer.md)
 * [dice 骰子](dice.md)

@@ -25,7 +25,6 @@
 * [其他功能](function-help/other-function/README.md)
   * [/information 資訊顯示](function-help/other-function/information.md)
   * [/words 單字系統](<function-help/other-function/words .md>)
-  * [/response 機器人回應](<function-help/other-function/response .md>)
   * [/record 訊息回顧](function-help/other-function/record.md)
   * [/timer 計時器](function-help/other-function/timer.md)
   * [/dice 骰子](function-help/other-function/dice.md)
