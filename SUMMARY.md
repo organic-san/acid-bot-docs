@@ -34,4 +34,3 @@
 * [製作者與幫助的人](others/special-thanks.md)
 * [使用與隱私權條款](others/privacy-rule.md)
 * [常見問答](others/faq.md)
-* [未來TO-DO](others/todo.md)
