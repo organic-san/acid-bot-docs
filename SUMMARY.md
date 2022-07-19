@@ -24,7 +24,6 @@
   * [/generator 產生器](function-help/game-function/generator.md)
 * [其他功能](function-help/other-function/README.md)
   * [/information 資訊顯示](function-help/other-function/information.md)
-  * [/words 單字系統](<function-help/other-function/words .md>)
   * [/record 訊息回顧](function-help/other-function/record.md)
   * [/timer 計時器](function-help/other-function/timer.md)
   * [/dice 骰子](function-help/other-function/dice.md)
