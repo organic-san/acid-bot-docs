@@ -17,6 +17,7 @@
   * [/poll 投票](function-help/server-function/poll.md)
   * [/account 帳號查詢](function-help/server-function/account.md)
 * [娛樂功能](function-help/game-function/README.md)
+  * [/gomoku 五子棋](function-help/game-function/gomoku.md)
   * [/yacht-dice 快艇骰子](function-help/game-function/yacht-dice.md)
   * [/guess-number 猜數字](function-help/game-function/guess-number.md)
   * [/paper-scissors-stone 猜拳](function-help/game-function/paper-scissors-stone.md)
