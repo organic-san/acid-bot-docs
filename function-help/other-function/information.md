@@ -26,4 +26,4 @@ description: 查詢用戶、機器人，或者伺服器的資料。
 
 查詢機器人的資訊，例如製作者與加入伺服器時間、總用戶雨總伺服器數，機器人的統計資料也可以在這裡查詢。
 
-![](https://cdn.discordapp.com/attachments/848902789681381416/965623355917099018/unknown.png)
+<figure><img src="https://cdn.discordapp.com/attachments/848902789681381416/1035921778347880518/unknown.png" alt=""><figcaption></figcaption></figure>
