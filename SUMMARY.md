@@ -21,7 +21,6 @@
   * [/guess-number 猜數字](function-help/game-function/guess-number.md)
   * [/paper-scissors-stone 猜拳](function-help/game-function/paper-scissors-stone.md)
   * [/tic-tac-toe 圈圈叉叉](function-help/game-function/tictactoe-quan-quan-cha-cha.md)
-  * [/generator 產生器](function-help/game-function/generator.md)
 * [其他功能](function-help/other-function/README.md)
   * [/information 資訊顯示](function-help/other-function/information.md)
   * [/words 單字查詢](<function-help/other-function/words .md>)
