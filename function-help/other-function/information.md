@@ -24,6 +24,6 @@ description: 查詢用戶、機器人，或者伺服器的資料。
 
 ### /information bot
 
-查詢機器人的資訊，例如製作者與加入伺服器時間、總用戶雨總伺服器數，機器人的統計資料也可以在這裡查詢。
+查詢機器人的資訊，例如製作者與加入伺服器時間、總用戶與總伺服器數，機器人的統計資料也可以在這裡查詢。
 
 <figure><img src="https://cdn.discordapp.com/attachments/848902789681381416/1035921778347880518/unknown.png" alt=""><figcaption></figcaption></figure>
