@@ -7,7 +7,7 @@ ester bot的程式碼、營運皆由 organic\_san\_2#2202一手負責。\
 
 聯絡方式:
 
-Disord: organic\_san\_2#2202
+Disord: organic\_san
 
 email:organic.san.3321@gmail.com
 
