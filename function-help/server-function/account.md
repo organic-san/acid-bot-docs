@@ -1,5 +1,5 @@
 ---
-description: 查詢一個帳號的資訊，例如創建日期或頭像。
+description: 查詢一個帳號的資訊，例如帳號的創建日期或頭像。
 ---
 
 # /account 帳號查詢
@@ -14,7 +14,11 @@ description: 查詢一個帳號的資訊，例如創建日期或頭像。
 
 * (選填)user:要查詢的用戶，空白則查詢自己帳號的創立日期。
 
-![](https://cdn.discordapp.com/attachments/848902789681381416/965608299456245851/unknown.png)
+<div align="left">
+
+<img src="https://cdn.discordapp.com/attachments/848902789681381416/965608299456245851/unknown.png" alt="">
+
+</div>
 
 ### /account avatar
 
@@ -27,4 +31,8 @@ description: 查詢一個帳號的資訊，例如創建日期或頭像。
 
 預覽圖片為png，可點選文字開啟jpg或webp檔。
 
-![](https://cdn.discordapp.com/attachments/848902789681381416/965608654378246204/unknown.png)
+<div align="left">
+
+<img src="https://cdn.discordapp.com/attachments/848902789681381416/965608654378246204/unknown.png" alt="">
+
+</div>

@@ -11,6 +11,8 @@
 先手將固定為橘色棋子，而後手將固定為白色棋子。\
 先在盤面上形成橫線、直線或斜對角線上有5子連線的玩家獲勝。
 
+***
+
 ## 指令一覽
 
 ### /gomoku
@@ -25,4 +27,8 @@
 * player:要一同遊玩的玩家。
 * offensive:遊玩的先後手順序。可以選擇發起遊戲方或收到邀請的玩家為先手，或者隨機決定。
 
+<div align="left">
+
 <figure><img src="https://media.discordapp.net/attachments/815697889144733757/1031604301308629012/unknown.png" alt=""><figcaption></figcaption></figure>
+
+</div>

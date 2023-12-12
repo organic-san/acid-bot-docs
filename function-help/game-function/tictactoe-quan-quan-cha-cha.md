@@ -14,4 +14,8 @@ description: 和機器人玩一場圈圈叉叉。
 
 * difficulty:難度，可以從簡單、中等、困難中選擇。
 
-![](https://cdn.discordapp.com/attachments/848902789681381416/966600146290888714/unknown.png)
+<div align="left">
+
+<img src="https://cdn.discordapp.com/attachments/848902789681381416/966600146290888714/unknown.png" alt="">
+
+</div>

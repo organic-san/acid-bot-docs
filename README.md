@@ -10,8 +10,10 @@ ester bot擁有多種豐富的Discord[社群支援](function-help/basic-illustra
 
 ester bot可以有效解省營運伺服器的成本，並幫助活躍整個伺服器。
 
+***
+
 ### 這裡有什麼?
 
 在這裡可以詳細理解ester bot的那些功能詳細的使用說明，或者找到需要的功能。
 
-當然也可以不用理解所有功能，只需要在這裡找到你所需要的功能說明。
+當然也可以不用理解所有功能，只需要找到你正在尋找的目標，如果是這樣的話，歡迎從[指令一覽](function-help/basic-illustrate.md)開始尋找。

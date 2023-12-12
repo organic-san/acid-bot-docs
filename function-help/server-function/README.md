@@ -13,3 +13,4 @@ description: 用於管理或幫助伺服器的功能們。
 * [welcome-message 歡迎訊息](welcome-message.md)-當有人進入或離開伺服器時發送一則訊息的功能。
 * [poll 投票](poll.md) - 建立與統計投票的功能。
 * [account 帳號查詢](account.md) - 查詢帳號建立日期與頭像的功能。
+* [earthquake 地震消息](earthquake-di-zhen-xiao-xi.md) - 每當地震發生時，發送一則地震消息到伺服器的功能。

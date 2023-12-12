@@ -6,9 +6,15 @@
 
 例如下圖，只要預先設定對「晚安」與他要回應文字，即會在收到對應訊息時自動回復:
 
-![](https://cdn.discordapp.com/attachments/848902789681381416/965609067286523955/unknown.png)
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 將指定回覆自動化，也可以更加便於疏通多次出現的訊息，也可以為討論添增色彩。
+
+{% hint style="warning" %}
+由於Discord的方針，希望機器人回應的話，你需要同時提及機器人(@ester bot)，機器人才能捕捉到你的訊息。
+{% endhint %}
+
+***
 
 ## 一般用戶可以使用的功能
 
@@ -16,7 +22,13 @@
 
 顯示目前有設定的文字。下面的按鈕可以切換其他的頁面。
 
-![](https://cdn.discordapp.com/attachments/848902789681381416/965617412600893470/unknown.png)
+<div align="left">
+
+<img src="https://cdn.discordapp.com/attachments/848902789681381416/965617412600893470/unknown.png" alt="">
+
+</div>
+
+***
 
 ## 只有管理員才能使用的功能
 
@@ -28,12 +40,6 @@
 
 * trigger-message:要偵測的訊息。
 * reply-message:要回應的訊息。
-* mode:設定要偵測的模式。
-
-| mode名稱 | mode的含意                         |
-| ------ | ------------------------------- |
-| 完全相符   | 輸入的文字需要與設定的文字相符，ester bot才會回應。  |
-| 部分相符   | 只要輸入的文字中有包含設定的文字，ester bot就會回應。 |
 
 ### /auto-reply remove
 
@@ -43,13 +49,21 @@
 
 * auto-reply-id:自動回應的ID。會在設定成功時顯示，也可以藉由/auto-reply show查詢。
 
-![紅框處的ID即為auto-reply-id](https://cdn.discordapp.com/attachments/848902789681381416/965618853608562800/unknown.png)
+<div align="left">
+
+<img src="https://cdn.discordapp.com/attachments/848902789681381416/965618853608562800/unknown.png" alt="紅框處的ID即為auto-reply-id">
+
+</div>
 
 ### /auto-reply reset
 
 ​清除所有已設定的自動回應。
 
-![](https://cdn.discordapp.com/attachments/848902789681381416/965621191136137246/unknown.png)
+<div align="left">
+
+<img src="https://cdn.discordapp.com/attachments/848902789681381416/965621191136137246/unknown.png" alt="">
+
+</div>
 
 {% hint style="danger" %}
 此操作無法復原，請審慎考慮。

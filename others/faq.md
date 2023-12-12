@@ -6,8 +6,10 @@
 
 ### 機器人使用什麼程式語言?
 
-javascript作為使用的語言
+javascript 作為機器人運作的語言
 
-node.js 作為運作的伺服器
+node.js 作為運作的作業環境
 
-Discord.js作為主要使用的模組
+sqlite 作為使用的資料庫
+
+Discord.js 作為主要使用的模組

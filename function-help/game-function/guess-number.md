@@ -18,6 +18,8 @@ description: 猜一個四位數字，俗稱1A2B。
 
 直到回合耗盡、按下放棄遊戲按鈕，或者時間超過10分鐘時，遊戲將會自動結束。
 
+***
+
 ## 指令一覽
 
 ### /guess-number
@@ -29,4 +31,12 @@ description: 猜一個四位數字，俗稱1A2B。
 * range:數字的範圍。可以從4個到10個之間選擇。
 * is-recurring:數字是否會重複。
 
-![](https://cdn.discordapp.com/attachments/848902789681381416/966962776050372608/unknown.png) ![](https://cdn.discordapp.com/attachments/848902789681381416/966963547898777640/unknown.png)
+<div align="left">
+
+<img src="https://cdn.discordapp.com/attachments/848902789681381416/966962776050372608/unknown.png" alt="">
+
+ 
+
+<img src="https://cdn.discordapp.com/attachments/848902789681381416/966963547898777640/unknown.png" alt="">
+
+</div>

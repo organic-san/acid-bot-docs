@@ -16,6 +16,7 @@
   * [/welcome-message 歡迎訊息](function-help/server-function/welcome-message.md)
   * [/poll 投票](function-help/server-function/poll.md)
   * [/account 帳號查詢](function-help/server-function/account.md)
+  * [/earthquake 地震消息](function-help/server-function/earthquake-di-zhen-xiao-xi.md)
 * [娛樂功能](function-help/game-function/README.md)
   * [/gomoku 五子棋](function-help/game-function/gomoku.md)
   * [/yacht-dice 快艇骰子](function-help/game-function/yacht-dice.md)

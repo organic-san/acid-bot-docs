@@ -14,4 +14,8 @@ description: 和機器人猜拳。
 
 * gesture:要出的拳，可以從剪刀、石頭、布中選擇。
 
-![](https://cdn.discordapp.com/attachments/848902789681381416/966606603820343376/unknown.png)
+<div align="left">
+
+<img src="https://cdn.discordapp.com/attachments/848902789681381416/966606603820343376/unknown.png" alt="">
+
+</div>
