@@ -34,6 +34,24 @@ ester bot的功能大致分成3塊，點進下方連結或左側頁面可以查�
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
+### 表情符號轉換功能
+
+有了Discord nitro，就可以在別的地方使用不屬於那裡的表情符號。但是如果沒有nitro，還能使用這項功能嗎?\
+只要藉由ester bot的功能，就可以輕鬆達成這個要求。
+
+只要輸入表情符號的名稱，ester bot就會將你的發言自動轉換成包含表情符號的訊息。\
+例如：輸入 `:esterbot:` 並在訊息區中提及機器人(@ester bot)，ester bot就會轉換你的文字，成為真正的表情符號。
+
+![](https://cdn.discordapp.com/attachments/848902789681381416/965291742691733584/ezgif-2-6588ee6e34.gif)
+
+{% hint style="warning" %}
+有表情符號的伺服器與要傳送訊息的伺服器兩邊都需要加入ester bot。
+{% endhint %}
+
+{% hint style="warning" %}
+由於Discord的方針，希望機器人回應的話，你需要同時提及機器人(@ester bot)，機器人才能捕捉到你的訊息。
+{% endhint %}
+
 ***
 
 ## 用詞說明

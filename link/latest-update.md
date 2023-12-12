@@ -13,7 +13,7 @@ description: 簡單查看最近機器人又新增了什麼功能。
 
 新增功能: 地震通知\
 從中央氣象署API提取地震消息並發佈到指定的頻道中。\
-關於功能的說明請參考這個頁面: [地震消息](../function-help/server-function/earthquake-di-zhen-xiao-xi.md)
+關於功能的說明請參考這個頁面: [地震消息](../function-help/server-function/earthquake.md)
 
 ### 2022/10/17更新
 
