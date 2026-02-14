@@ -18,17 +18,13 @@
 ### /gomoku
 
 遊玩一次五子棋。遊戲將透過私訊進行，因此請所有玩家打開私訊功能。\
-遊戲需要兩人共同遊玩。\
+遊戲可以兩人共同遊玩，也可以與機器人對戰。\
 遊戲過程會同時在雙方玩家，以及開始遊戲的訊息中顯示。\
 如果在收到邀請後5分鐘內沒有回應，或其中一人在遊玩過程中沒有操作超過3分鐘，遊戲便會自動結束。
 
 #### 填入選項
 
-* player:要一同遊玩的玩家。
-* offensive:遊玩的先後手順序。可以選擇發起遊戲方或收到邀請的玩家為先手，或者隨機決定。
+* (選填)player: 要一同遊玩的玩家。如果不填入這欄，將開啟機器人對戰。
+* offensive: 遊玩的先後手順序。可以選擇發起遊戲方或收到邀請的玩家為先手，或者隨機決定。
 
-<div align="left">
-
-<figure><img src="https://media.discordapp.net/attachments/815697889144733757/1031604301308629012/unknown.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://media.discordapp.net/attachments/815697889144733757/1031604301308629012/unknown.png" alt=""><figcaption></figcaption></figure></div>

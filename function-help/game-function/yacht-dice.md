@@ -12,11 +12,7 @@ description: 遊玩快艇骰子。支援多人同時遊玩。
 遊戲使用五顆骰子遊玩，按下擲骰按鈕便可以骰出骰子。\
 在第一次骰出骰子後，可以有兩次機會選擇重新擲骰部分骰子，背景為綠色的骰子代表會重骰，而灰色的骰子代表會保留，不會重新擲骰。
 
-<div align="left">
-
-<img src="https://cdn.discordapp.com/attachments/848902789681381416/967687660586029096/unknown.png" alt="">
-
-</div>
+<div align="left"><img src="https://cdn.discordapp.com/attachments/848902789681381416/967687660586029096/unknown.png" alt=""></div>
 
 最後根據骰子結果填入組合，而組合的分數總和決定最後的得分。
 
@@ -31,7 +27,7 @@ description: 遊玩快艇骰子。支援多人同時遊玩。
 {% hint style="info" %}
 總和63分代表一點到六點平均需要填入三顆。\
 理論最高分是325分。\
-累計最高分數與周間最高分數可以用[/information bot](../other-function/information.md#information-bot)查詢。
+累計最高分數與週間最高分數可以用[/information bot](../other-function/information.md#information-bot)查詢。
 {% endhint %}
 
 ***
@@ -49,16 +45,4 @@ description: 遊玩快艇骰子。支援多人同時遊玩。
 
 * (選填)player1\~3:要一起遊玩的玩家。如果沒有填入玩家，則會變成單人遊玩。
 
-<div align="left">
-
-<img src="https://cdn.discordapp.com/attachments/848902789681381416/967694186604269608/unknown.png" alt="遊玩過程示意圖">
-
- 
-
-<img src="https://cdn.discordapp.com/attachments/848902789681381416/967692437994766386/unknown.png" alt="單人遊玩示意圖">
-
- 
-
-<img src="https://cdn.discordapp.com/attachments/848902789681381416/967692973334753280/unknown.png" alt="多人遊玩示意圖">
-
-</div>
+<div align="left"><img src="https://cdn.discordapp.com/attachments/848902789681381416/967694186604269608/unknown.png" alt="遊玩過程示意圖"> <img src="https://cdn.discordapp.com/attachments/848902789681381416/967692437994766386/unknown.png" alt="單人遊玩示意圖"> <img src="https://cdn.discordapp.com/attachments/848902789681381416/967692973334753280/unknown.png" alt="多人遊玩示意圖"></div>
